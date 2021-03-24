@@ -19,7 +19,7 @@ I am currently working at Pivotree as a Site Reliability Engineer based in Toron
 ### Connect with me
 
 [<img align="left" alt="ranopriyo-neogy | LinkedIn" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="ranopriyo-neogy | Instagram" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="ranopriyo-neogy | Instagram" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]<br />
 
 
 [linkedin]: https://www.linkedin.com/in/ranopriyo-neogy/

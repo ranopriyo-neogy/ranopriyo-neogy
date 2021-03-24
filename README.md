@@ -22,9 +22,10 @@ I am currently working at Pivotree as a Site Reliability Engineer based in Toron
 [<img align="left" alt="ranopriyo-neogy | Instagram" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
-![](https://komarev.com/ghpvc/?username=ranopriyo-neogy&style=flat-square)
-![](https://hit.yhype.me/github/profile?user_id=68603179)
-
 [linkedin]: https://www.linkedin.com/in/ranopriyo-neogy/
 [instagram]: https://www.instagram.com/me_neogy/
+
+
+![](https://komarev.com/ghpvc/?username=ranopriyo-neogy&style=flat-square)
+![](https://hit.yhype.me/github/profile?user_id=68603179)
 

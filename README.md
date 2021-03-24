@@ -5,7 +5,7 @@
 [![Instagram Follow](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/me_neogy/)
 
 
-I am currently working at Pivotree as a Site Reliability Engineer based in Toronto. As a part of Cloud Platform Engineering Team I primarily work on Amazon Web Services and Terraform building scalable cloud infrastructure for multiple Fortune 1000 E-Commerce clients in North America and Europe. Before joining Pivotree I was working for a NewYork based Financial Services Company - TIAA and prior to that I worked as a consultant for Cisco where it all started.
+I am currently working at Pivotree as a Site Reliability Engineer based in Toronto. As a part of Cloud Platform Engineering Team I primarily work on Amazon Web Services and Terraform building scalable cloud infrastructure for multiple Fortune 1000 E-Commerce clients in North America and Europe. Before joining Pivotree I was working at a NewYork based Financial Services Company - TIAA and prior to that I worked as a consultant for Cisco where it all started.
 
 
 ## I like

@@ -25,9 +25,8 @@ I am currently working at Pivotree as a Site Reliability Engineer based in Toron
 [linkedin]: https://www.linkedin.com/in/ranopriyo-neogy/
 [instagram]: https://www.instagram.com/me_neogy/
 
+<img align="left" alt="Rano's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ranopriyo-neogy&show_icons=true&hide_border=true" />
 
 ![](https://komarev.com/ghpvc/?username=ranopriyo-neogy&style=flat-square)
 ![](https://hit.yhype.me/github/profile?user_id=68603179)
-
-<img align="left" alt="Rano's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ranopriyo-neogy&show_icons=true&hide_border=true" />
 

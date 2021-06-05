@@ -16,9 +16,9 @@ I am currently working at Pivotree as a Site Reliability Engineer based in Toron
 - Sometimes Reading / Writing [Technical blogs](https://blog.pivotree.cloud/2020-11-24-documentation-gatsby/) 
 
 
+![](https://komarev.com/ghpvc/?username=ranopriyo-neogy&style=flat-square)
+![](https://hit.yhype.me/github/profile?user_id=68603179)
 
 <img align="left" alt="Rano's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ranopriyo-neogy&show_icons=true&hide_border=true" />
 
-![](https://komarev.com/ghpvc/?username=ranopriyo-neogy&style=flat-square)
-![](https://hit.yhype.me/github/profile?user_id=68603179)
 

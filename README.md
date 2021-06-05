@@ -16,14 +16,6 @@ I am currently working at Pivotree as a Site Reliability Engineer based in Toron
 - Sometimes Reading / Writing [Technical blogs](https://blog.pivotree.cloud/2020-11-24-documentation-gatsby/) 
 
 
-### Connect with me
-
-[<img align="left" alt="ranopriyo-neogy | LinkedIn" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="ranopriyo-neogy | Instagram" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]<br />
-
-
-[linkedin]: https://www.linkedin.com/in/ranopriyo-neogy/
-[instagram]: https://www.instagram.com/me_neogy/
 
 <img align="left" alt="Rano's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ranopriyo-neogy&show_icons=true&hide_border=true" />
 

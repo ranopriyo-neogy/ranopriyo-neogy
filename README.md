@@ -1,4 +1,4 @@
-## Hi there, I'm Rano 👋 I work as a Site Reliability Engineer @ [Pivotree](https://pivotree.com/)
+## Hi there, I'm Rano 👋 I work as a Senior Site Reliability Engineer @ [Pivotree](https://pivotree.com/)
 
 ### Connect with me:
 
